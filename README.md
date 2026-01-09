@@ -50,13 +50,19 @@ La aplicación utiliza localStorage para guardar:
 
 
 
+
 Cómo ejecutar el proyecto
 
 ✔ Descargar o clonar el repositorio:
+
 ✔ https://github.com/Danyreyesb/Alke-walletDanielaReyes.git
+
 ✔ Abrir la carpeta del proyecto
+
 ✔ Ingresar a la carpeta html
+
 ✔ Abrir index.html en el navegador
+
 ✔ No requiere servidor ni instalación adicional.
 Los datos se conservan incluso al cerrar el navegador.
 
